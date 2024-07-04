@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Tkinter build directories
+dist/
+build/
+
+# Logs y archivos temporales
+*.log
+
+# Archivos de configuración locales de IDEs
+.vscode/
+.idea/
